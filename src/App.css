@@ -22,6 +22,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  
 }
 
 .App-link {
@@ -36,3 +37,27 @@
     transform: rotate(360deg);
   }
 }
+/* .navbar{
+  display: flex;
+  padding:10px 15px;
+  margin:15px;
+  list-style: none;
+  gap: 30px;
+  font-size: larger;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 500;
+  color: bisque;
+  background: black;
+}
+.para{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  font-size: 30px;
+  background-color: antiquewhite;
+  border: 3px solid black;
+  border-radius: 10px;
+
+
+} */
